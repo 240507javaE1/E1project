@@ -10,7 +10,6 @@
 <hr>hgfhfhfh<br>
    ;lk;lk;k<br>
    lkl;kl;\<br>lkjlkjkl<br><hr>
-
 [yahoo](http://tw.yahoo.com) <br>
 [GooGle](http://www.google.com) <br>
 ## [文件解說](blog/index.html) 
@@ -23,7 +22,6 @@
 <li>台北捷運中和線</li>
 <li>台北捷運內湖線</li>
 </ul>
-
 <hr>
 <ol type="1">
 <li>Apples</li>
