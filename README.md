@@ -10,9 +10,9 @@
 <hr>hgfhfhfh<br>
    ;lk;lk;k<br>
    lkl;kl;\<br>
-   lkjlkjkl<br><hr>
-[yahoo](http://tw.yahoo.com)
+   lkjlkjkl<br><hr>  <br>
 
+[yahoo](http://tw.yahoo.com) <br>
 [GooGle](http://www.google.com) <br>
 ## [文件解說](blog/index.html) 
 ![101圖](pic/101.jpg)
