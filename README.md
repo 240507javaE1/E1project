@@ -9,13 +9,12 @@
 ###### A_1_1
 <hr>hgfhfhfh<br>
    ;lk;lk;k<br>
-   lkl;kl;\<br>
-   lkjlkjkl<br><hr>  
+   lkl;kl;\<br>lkjlkjkl<br><hr>
+
 [yahoo](http://tw.yahoo.com) <br>
 [GooGle](http://www.google.com) <br>
 ## [文件解說](blog/index.html) 
 ![101圖](pic/101.jpg)
-
 <ul type="disk">
 <li>台北捷運板南線</li>
 <li>台北捷運淡水線</li>
