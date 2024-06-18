@@ -7,13 +7,10 @@
 #### A
 ##### A_1
 ###### A_1_1
-<hr>
-   hgfhfhfh<br>
+<hr>hgfhfhfh<br>
    ;lk;lk;k<br>
    lkl;kl;\<br>
-   lkjlkjkl<br>
-<hr>
-
+   lkjlkjkl<br><hr>
 [yahoo](http://tw.yahoo.com)
 
 [GooGle](http://www.google.com) <br>
