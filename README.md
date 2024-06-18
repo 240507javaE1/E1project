@@ -2,14 +2,13 @@
 Java練習 & MakeDown練習<br>
 參考網站:cnfox.github.io/2019/05/21/Makedown-language/
 
-# * GJSchool專案*
-## ** 第一章**
-### ***### 第一小節***
-#### ~~#### A~~
- * * *
-##### A_1 * * *
+# GJSchool專案
+## 第一章
+### 第一小節
+#### A
+##### A_1
 ###### A_1_1
-* * *
+
 <hr>
    hgfhfhfh<br>
    ;lk;lk;k<br>
@@ -17,3 +16,10 @@ Java練習 & MakeDown練習<br>
    lkjlkjkl<br>
 
 <hr>
+
+[yahoo](http://tw.yahoo.com)
+
+[GooGle](http://www.google.com)
+
+## [文件解說](blog/index.html)
+   
