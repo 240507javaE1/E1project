@@ -13,7 +13,7 @@ Java練習 & MakeDown練習<br>
    ;lk;lk;k<br>
    lkl;kl;\<br>
    lkjlkjkl<br>
-<hr><p>
+<hr>
 
 [yahoo](http://tw.yahoo.com)
 
