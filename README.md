@@ -14,7 +14,8 @@ Java練習 & MakeDown練習<br>
    lkl;kl;\<br>
    lkjlkjkl<br>
 <hr><p>
-[yahoo](http://tw.yahoo.com)<br>
+[yahoo](http://tw.yahoo.com)
+
 [GooGle](http://www.google.com) <br>
 ## [文件解說](blog/index.html) 
 ![101圖](pic/101.jpg)
