@@ -1,4 +1,4 @@
-# E1project : Java練習 & MakeDown練習
+# E1project : Java練習 & markdown練習
 參考網站1:cnfox.github.io/2019/05/21/Makedown-language/ <br>
 參考網站2:github.com/youngyangyang04/leetcode-master
 # *GJSchool專案*
